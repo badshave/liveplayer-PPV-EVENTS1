@@ -1,0 +1,133 @@
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] PPV SKY+BT LIVE EVENTS #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| PPV EVENTS",##### [UK] PPV LIVE EVENTS #####
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/766092
+#EXTINF:-1 tvg-id="" tvg-name="SBO 1: HEVC SKY BOX OFFICE HD LOW BW" tvg-logo="http://logo.protv.cc/picons-dino/logos/SBO-TV.jpeg" group-title="|UK| PPV EVENTS",SBO 1: HEVC SKY BOX OFFICE HD LOW BW
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677311
+#EXTINF:-1 tvg-id="" tvg-name="SBO 2: HEVC SKY BOX OFFICE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SBO-TV.jpeg" group-title="|UK| PPV EVENTS",SBO 2: HEVC SKY BOX OFFICE FHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677310
+#EXTINF:-1 tvg-id="" tvg-name="SBO 3: Sky sports box office sd" tvg-logo="http://logo.protv.cc/picons-dino/logos/SBO-TV.jpeg" group-title="|UK| PPV EVENTS",SBO 3: Sky sports box office sd
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677309
+#EXTINF:-1 tvg-id="" tvg-name="SBO 4: Sky box office fhd" tvg-logo="http://logo.protv.cc/picons-dino/logos/SBO-TV.jpeg" group-title="|UK| PPV EVENTS",SBO 4: Sky box office fhd
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677308
+#EXTINF:-1 tvg-id="" tvg-name="PPV 01: 5AM Mayweather v Asakura" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 01: 5AM Mayweather v Asakura
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677307
+#EXTINF:-1 tvg-id="" tvg-name="PPV 02: 12:15/2PM 2PM Hughes v Galahad" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 02: 12:15/2PM 2PM Hughes v Galahad
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677306
+#EXTINF:-1 tvg-id="" tvg-name="PPV 03: 8PM Joyce v Parker" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 03: 8PM Joyce v Parker
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677305
+#EXTINF:-1 tvg-id="" tvg-name="PPV 04: 7PM MMA Attack 4 Reactivation" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 04: 7PM MMA Attack 4 Reactivation
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677304
+#EXTINF:-1 tvg-id="" tvg-name="PPV 05: 8PM Polaris 21 Grapple Island" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 05: 8PM Polaris 21 Grapple Island
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677303
+#EXTINF:-1 tvg-id="" tvg-name="PPV 06: 8:30PM PTW Underground 8" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 06: 8:30PM PTW Underground 8
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677302
+#EXTINF:-1 tvg-id="" tvg-name="PPV 07: 9PM Metal Mayhem Derby" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 07: 9PM Metal Mayhem Derby
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677301
+#EXTINF:-1 tvg-id="" tvg-name="PPV 08: 6PM URLtv Summer Madness" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 08: 6PM URLtv Summer Madness
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677300
+#EXTINF:-1 tvg-id="" tvg-name="PPV 09: 10PM AFL 28 Las Palmas" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 09: 10PM AFL 28 Las Palmas
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677299
+#EXTINF:-1 tvg-id="" tvg-name="PPV 10: 11PM Top Level Pro 8 Grappling Series" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 10: 11PM Top Level Pro 8 Grappling Series
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677298
+#EXTINF:-1 tvg-id="" tvg-name="PPV 11: 00AM Fight to Win 210 Pro" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 11: 00AM Fight to Win 210 Pro
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677297
+#EXTINF:-1 tvg-id="" tvg-name="PPV 12: 00AM ISKA Show" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 12: 00AM ISKA Show
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677296
+#EXTINF:-1 tvg-id="" tvg-name="PPV 13: 6PM Big Johns MMA Every Victory Earned" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 13: 6PM Big Johns MMA Every Victory Earned
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677295
+#EXTINF:-1 tvg-id="" tvg-name="PPV 14: 1AM M&R Boxing Show From Miami" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 14: 1AM M&R Boxing Show From Miami
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677294
+#EXTINF:-1 tvg-id="" tvg-name="PPV 15: 1AM House of Glory Wrestling Genesis" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 15: 1AM House of Glory Wrestling Genesis
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677293
+#EXTINF:-1 tvg-id="" tvg-name="PPV 16: 1AM MCW Pro Wrestling Ladies Night" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 16: 1AM MCW Pro Wrestling Ladies Night
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677292
+#EXTINF:-1 tvg-id="" tvg-name="PPV 17: 11:45PM FASTRAK World Championship" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 17: 11:45PM FASTRAK World Championship
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677291
+#EXTINF:-1 tvg-id="" tvg-name="PPV 18: 2AM Dynasty Combat Sports Turf Wars" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 18: 2AM Dynasty Combat Sports Turf Wars
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677290
+#EXTINF:-1 tvg-id="" tvg-name="PPV 19: 2AM NJPW Strong Fighting Spirit Unleashed Eps 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 19: 2AM NJPW Strong Fighting Spirit Unleashed Eps 3
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677289
+#EXTINF:-1 tvg-id="" tvg-name="PPV 20:  3AM CPRA Rodeo" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 20:  3AM CPRA Rodeo
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677288
+#EXTINF:-1 tvg-id="" tvg-name="PPV 21: 5AM Locked N Loaded" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 21: 5AM Locked N Loaded
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677287
+#EXTINF:-1 tvg-id="" tvg-name="PPV 22: 5:15PM SuperBikes at Alabama MotoAmerica" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 22: 5:15PM SuperBikes at Alabama MotoAmerica
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677286
+#EXTINF:-1 tvg-id="" tvg-name="PPV 23: 00:15AM World of Outlaws Sprint Cars" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 23: 00:15AM World of Outlaws Sprint Cars
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677285
+#EXTINF:-1 tvg-id="" tvg-name="PPV 24: 00:30AM World of Outlaws Late Models" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 24: 00:30AM World of Outlaws Late Models
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677284
+#EXTINF:-1 tvg-id="" tvg-name="PPV 25: 1AM Monster Truck Throwdown" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 25: 1AM Monster Truck Throwdown
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677283
+#EXTINF:-1 tvg-id="" tvg-name="PPV 26: UFC Fight Night: Sandhagen vs Song" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 26: UFC Fight Night: Sandhagen vs Song
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677282
+#EXTINF:-1 tvg-id="" tvg-name="PPV 27: UFC Fight Night: Sandhagen vs Song" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 27: UFC Fight Night: Sandhagen vs Song
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677281
+#EXTINF:-1 tvg-id="" tvg-name="PPV 28: Canello Vs Golovkin" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 28: Canello Vs Golovkin
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677280
+#EXTINF:-1 tvg-id="" tvg-name="PPV 29: Canello Vs Golovkin" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 29: Canello Vs Golovkin
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677279
+#EXTINF:-1 tvg-id="" tvg-name="PPV 30: 2022 Jack's World Series of Darts Finals Day Two Sat 17th 5:00PM" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 30: 2022 Jack's World Series of Darts Finals Day Two Sat 17th 5:00PM
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677278
+#EXTINF:-1 tvg-id="" tvg-name="PPV 31: ADCC World Championships 18.00 UK" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 31: ADCC World Championships 18.00 UK
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677277
+#EXTINF:-1 tvg-id="" tvg-name="PPV 32: 11PM Tuff N Uff 127" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 32: 11PM Tuff N Uff 127
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677276
+#EXTINF:-1 tvg-id="" tvg-name="PPV 33: Rivals: Joseph Adorno vs Iron Alvarez 10.30PM GMT" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 33: Rivals: Joseph Adorno vs Iron Alvarez 10.30PM GMT
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677275
+#EXTINF:-1 tvg-id="" tvg-name="PPV 34: Demolition Fight Series 5 7.30AM GMT" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",PPV 34: Demolition Fight Series 5 7.30AM GMT
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/677274
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] PPV UHD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| PPV EVENTS",##### [UK] PPV UHD #####
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578051
+#EXTINF:-1 tvg-id="" tvg-name="UK -  UFC 2 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/UFC-.png" group-title="|UK| PPV EVENTS",UK -  UFC 2 UHD [LIVE-EVENT]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578049
+#EXTINF:-1 tvg-id="" tvg-name="UK -  UFC  UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/UFC-.png" group-title="|UK| PPV EVENTS",UK -  UFC  UHD [LIVE-EVENT]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578050
+#EXTINF:-1 tvg-id="" tvg-name="UK - BOXING FEED 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOXING.jpeg" group-title="|UK| PPV EVENTS",UK - BOXING FEED 1 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578048
+#EXTINF:-1 tvg-id="" tvg-name="UK - BOXING FEED 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOXING.jpeg" group-title="|UK| PPV EVENTS",UK - BOXING FEED 2 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578047
+#EXTINF:-1 tvg-id="" tvg-name="UK - PPV [ ALL-SPORTS ]" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",UK - PPV [ ALL-SPORTS ]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578046
+#EXTINF:-1 tvg-id="" tvg-name="UK - PPV FIGHTING UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",UK - PPV FIGHTING UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578045
+#EXTINF:-1 tvg-id="" tvg-name="UK - PDC1 [EVENT-ONLY]" tvg-logo="http://logo.protv.cc/picons-dino/logos/PDC-.png" group-title="|UK| PPV EVENTS",UK - PDC1 [EVENT-ONLY]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578060
+#EXTINF:-1 tvg-id="" tvg-name="UK - PDC2 [EVENT-ONLY]" tvg-logo="http://logo.protv.cc/picons-dino/logos/PDC-.png" group-title="|UK| PPV EVENTS",UK - PDC2 [EVENT-ONLY]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578059
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV PPV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itvppv.png" group-title="|UK| PPV EVENTS",UK - ITV PPV UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578044
+#EXTINF:-1 tvg-id="" tvg-name="UK - PPV MMA 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",UK - PPV MMA 1 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578043
+#EXTINF:-1 tvg-id="" tvg-name="UK - PPV MMA 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",UK - PPV MMA 2 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578042
+#EXTINF:-1 tvg-id="" tvg-name="UK - PPV MMA 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ppv.png" group-title="|UK| PPV EVENTS",UK - PPV MMA 3 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578041
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] BT SPORTS EX UHD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| PPV EVENTS",##### [UK] BT SPORTS EX UHD #####
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578040
+#EXTINF:-1 tvg-id="" tvg-name="UK - BT OFFICE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport.png" group-title="|UK| PPV EVENTS",UK - BT OFFICE FHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578039
+#EXTINF:-1 tvg-id="uk.BT Sport X1" tvg-name="UK - BT SPORTS EXTRA 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportextra1.png" group-title="|UK| PPV EVENTS",UK - BT SPORTS EXTRA 1 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578038
+#EXTINF:-1 tvg-id="uk.BT Sport X2" tvg-name="UK - BT SPORTS EXTRA 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportextra2.png" group-title="|UK| PPV EVENTS",UK - BT SPORTS EXTRA 2 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578037
+#EXTINF:-1 tvg-id="uk.BT Sport X3" tvg-name="UK - BT SPORTS EXTRA 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportextra3.png" group-title="|UK| PPV EVENTS",UK - BT SPORTS EXTRA 3 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578036
+#EXTINF:-1 tvg-id="uk.BT Sport X4" tvg-name="UK - BT SPORTS EXTRA 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportextra4.png" group-title="|UK| PPV EVENTS",UK - BT SPORTS EXTRA 4 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578035
+#EXTINF:-1 tvg-id="uk.BT Sport X5" tvg-name="UK - BT SPORTS EXTRA 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportextra5.png" group-title="|UK| PPV EVENTS",UK - BT SPORTS EXTRA 5 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578034
+#EXTINF:-1 tvg-id="uk.BT Sport X6" tvg-name="UK - BT SPORTS EXTRA 6 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportextra6.png" group-title="|UK| PPV EVENTS",UK - BT SPORTS EXTRA 6 UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578033
+#EXTINF:-1 tvg-id="" tvg-name="UK - ITV OFFICE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/itv.png" group-title="|UK| PPV EVENTS",UK - ITV OFFICE UHD
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578032
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] RUSH SPORTS UHD #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png" group-title="|UK| PPV EVENTS",##### [UK] RUSH SPORTS UHD #####
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578058
+#EXTINF:-1 tvg-id="" tvg-name="UK - RUSH SPORTS EPL 1 [EVENT-ONLY]" tvg-logo="http://logo.protv.cc/picons-dino/logos/RUSH-SPORTS.jpg" group-title="|UK| PPV EVENTS",UK - RUSH SPORTS EPL 1 [EVENT-ONLY]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578057
+#EXTINF:-1 tvg-id="" tvg-name="UK - RUSH SPORTS EPL 2 [EVENT-ONLY]" tvg-logo="http://logo.protv.cc/picons-dino/logos/RUSH-SPORTS.jpg" group-title="|UK| PPV EVENTS",UK - RUSH SPORTS EPL 2 [EVENT-ONLY]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578056
+#EXTINF:-1 tvg-id="" tvg-name="UK - RUSH SPORTS EPL 3 [EVENT-ONLY]" tvg-logo="http://logo.protv.cc/picons-dino/logos/RUSH-SPORTS.jpg" group-title="|UK| PPV EVENTS",UK - RUSH SPORTS EPL 3 [EVENT-ONLY]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578055
+#EXTINF:-1 tvg-id="" tvg-name="UK - RUSH SPORTS EPL 4 [EVENT-ONLY]" tvg-logo="http://logo.protv.cc/picons-dino/logos/RUSH-SPORTS.jpg" group-title="|UK| PPV EVENTS",UK - RUSH SPORTS EPL 4 [EVENT-ONLY]
+http://line.powerdino.com:80/521d623f6c/3f3f40693e/578054
+#EXTINF:-1 tvg-id="" tvg-name="UK - RUSH SPORTS EPL 5 [EVENT-ONLY]" tvg-logo="http://logo.protv.cc/picons-dino/logos/RUSH-SPORTS.jpg" group-title="|UK| PPV EVENTS",UK - RUSH SPORTS EPL 5 [EVENT-ONLY]
